@@ -1,0 +1,9 @@
+{% extends 'base.html' %}
+{% block content %}
+<h2>Add Item to Collection</h2>
+<form method="POST">
+  <input name="item_name" placeholder="Item Name" required><br>
+  <input name="description" placeholder="Description"><br>
+  <button type="submit">Add</button>
+</form>
+{% endblock %}
