@@ -76,8 +76,3 @@ This project is licensed under the **MIT License** – feel free to use and modi
 
 ---
 
-Would you like me to also **generate a `requirements.txt`** file for you (with Flask, Flask-Login, SQLAlchemy, etc.) so that your repo is complete?
-Here’s a clean and professional **README.md** draft for your Flask collection app project:
-
----
-
